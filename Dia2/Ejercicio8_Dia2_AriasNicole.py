@@ -9,4 +9,3 @@ num1 = int (input ("Ingresa un número: "))
 num2 = int (input ("Ingresa un número: "))
 cantRepeticiones = (int (input ("¿Cuántos números en la serie deseas ?")))
 
-if num1  & num2 

@@ -2,7 +2,7 @@
 ## Clase 2 ##
 #############
 
-# Algoritmo para calcular el áreade un triángulo
+# Algoritmo para calcular el área de un triángulo
 
 # Entrada por consola
 base = float (input ("Ingresa la medida de la base: "))
